@@ -10,6 +10,9 @@ div{
     border: 1px solid gray
 }
 
+.col-sm-4{
+    border: 1px solid gray
+}
 .row{
     border: 1px solid red;
 }
